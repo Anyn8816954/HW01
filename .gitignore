@@ -1,0 +1,10 @@
+# Keep the GitHub repository focused on the assignment deliverables.
+/*
+!/.gitignore
+!/hw1/
+
+# Compiled artifacts generated while building inside the assignment folder.
+*.exe
+*.obj
+*.pdb
+*.ilk
